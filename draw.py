@@ -19,7 +19,7 @@ def draw_vertical():
     
 def draw_horizontal():
     pen.color("red")
-    pen.speed(10)
+    pen.speed(15)
     pen.penup()
     pen.goto(-370, 100)
     pen.right(270) 
